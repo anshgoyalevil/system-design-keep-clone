@@ -2,7 +2,7 @@
 
 Everyone of you might have used the Keep App by Google where you can add your notes. This app works similar way, with some amazing tweeks in UI XD.
 
-This is a complete system, with frontent (End user interface), backend (Server side logic), database.
+This is a complete system, with frontent (End user interface), backend (Server side logic) & database.
 
 ## Technologies used at frontent:
 - HTML
