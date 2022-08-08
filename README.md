@@ -31,7 +31,7 @@ Following Node Modules are used:
 MongoDB is used in this project for storing data of the users.
 
 ## Other Features:
-This project used the advance session and user management system. The passwords of the users are excrypted with multi-layer salting and hashing function. It uses very high performance and low latency CRUD operations.
+This project used the advance session and user management system. The passwords of the users are encrypted with multi-layer salting and hashing function. It uses very high performance and low latency CRUD operations.
 
 Note: This project contains some methods and modules, used for google authentication, though, the google authentication endpoints are not declared in this project. If you need help with implementing google authentication, feel free to ping me at anshgoyal0417@gmail.com
 
