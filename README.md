@@ -4,7 +4,7 @@ Everyone of you might have used the Keep App by Google where you can add your no
 
 This is a complete system, with frontent (End user interface), backend (Server side logic) & database.
 
-## Technologies used at frontent:
+## Technologies used at frontend:
 - HTML
 - CSS
 - Javascript
